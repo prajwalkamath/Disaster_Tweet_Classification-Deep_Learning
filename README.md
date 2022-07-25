@@ -1,10 +1,8 @@
 # Disaster_Tweet_Classification-Deep-Learning-
-## Team Members:
-1)Bhuvan Kumar:PES1UG19CS113
+Classifying live tweets from Twitter to decide whether a certain Tweet pertains to a real-life disaster or not and thus 
+send aid to the affected place faster.
 
-2)Prajwal Kamath K:PES1UG19CS337
 
-3)Pranav Rajnish:PES1UG19CS344
 
 ## Abstract:
 Social media and twitter in particular has evolved into a sort of 
@@ -30,7 +28,6 @@ site.
 The folders are structured as follows:
 1. Code:Preprocessing and Models,Bert
 2. Dataset: The original datasets downloaded from Kaggle
-3. IEEE Paper: Contains both pdf and word document
 
 Link to dataset: https://www.kaggle.com/datasets/vstepanenko/disaster-tweets
 
